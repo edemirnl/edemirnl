@@ -1,7 +1,6 @@
-- 👋 Hi, I’m edemir
+- 👋 Hi, I’m Emrullah
 - 👀 I’m interested in Azure Cloud and Web Design
-- 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on Cloud Teqnologies
+- 🌱 I’m currently learning IaC and Javascript
 - 📫 How to reach me edemirnl@outlook.com
 
 <!---
